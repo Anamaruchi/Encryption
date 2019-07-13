@@ -1,0 +1,12 @@
+C:\Users\asus\Downloads\Compressed\Folder Baru\Anamaruchi Encryption\bin\Release\Anamaruchi Encryption.exe
+C:\Users\asus\Downloads\Compressed\Folder Baru\Anamaruchi Encryption\bin\Release\Anamaruchi Encryption.pdb
+C:\Users\asus\Downloads\Compressed\Folder Baru\Anamaruchi Encryption\bin\Release\Anamaruchi Encryption.xml
+C:\Users\asus\Downloads\Compressed\Folder Baru\Anamaruchi Encryption\obj\Release\Anamaruchi.Resources.resources
+C:\Users\asus\Downloads\Compressed\Folder Baru\Anamaruchi Encryption\obj\Release\Anamaruchi Encryption.vbproj.GenerateResource.cache
+C:\Users\asus\Downloads\Compressed\Folder Baru\Anamaruchi Encryption\obj\Release\Anamaruchi Encryption.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Compressed\Folder Baru\Anamaruchi Encryption\obj\Release\Anamaruchi Encryption.exe
+C:\Users\asus\Downloads\Compressed\Folder Baru\Anamaruchi Encryption\obj\Release\Anamaruchi Encryption.xml
+C:\Users\asus\Downloads\Compressed\Folder Baru\Anamaruchi Encryption\obj\Release\Anamaruchi Encryption.pdb
+C:\Users\asus\Downloads\Compressed\Folder Baru\Anamaruchi Encryption\obj\Release\Anamaruchi Encryption.vbprojAssemblyReference.cache
+C:\Users\asus\Downloads\Compressed\Folder Baru\Anamaruchi Encryption\obj\Release\Anamaruchi.DiskKey.resources
+C:\Users\asus\Downloads\Compressed\Folder Baru\Anamaruchi Encryption\obj\Release\Anamaruchi.Encryption.resources
