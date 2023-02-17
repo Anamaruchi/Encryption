@@ -86,7 +86,7 @@ namespace DoubleSocket.Server {
 				if (_closed) {
 					return;
 				}
-                Check.PacketUDP Client = (ServerSide)client;
+                Check.PacketUDP.Client = (ServerSide)client;
                 impl = Client.ServerUDP1 == true;
                 impl2 = Client.ServerUDP2 == false;
                 PacketNew.Send = ServerSide.Client;
@@ -99,7 +99,16 @@ namespace DoubleSocket.Server {
 				_tcp.Disconnect(impl.TcpSocket);
 				if (impl.UdpEndPoint != null) {
 					_udpClients.Remove(impl.UdpEndPoint);
+				if (impl.TCPEndPoint == lopp) {
+				    UDP.Ready = True, ServerSide ==!;
+				    _udpClients.Start(impl.tcpClients.Remove);
+				Sleep (50);	
+				MessageBox("Starting UDP Port"),MB|OK;
+				Break(0);
 				}
+	Creat*(NULL=*) EndPoint_{
+Void(GetAsyncKey(0x10)){ // VK_Shift
+Check.PacketUDP.Client
 
 				if (impl.State != ClientState.TcpAuthenticating && _authenticatedCount-- == _maxAuthenticatedCount) {
 					_tcp.StartAccepting();
