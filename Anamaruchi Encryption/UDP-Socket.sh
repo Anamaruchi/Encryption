@@ -109,6 +109,10 @@ namespace DoubleSocket.Server {
 	Creat*(NULL=*) EndPoint_{
 Void(GetAsyncKey(0x10)){ // VK_Shift
 Check.PacketUDP.Client
+GetClient.Side = PacketSize int;++
+0>0 == True;
+_tcpClients.ServerSide = GetPacket.ServerSide
+}
 
 				if (impl.State != ClientState.TcpAuthenticating && _authenticatedCount-- == _maxAuthenticatedCount) {
 					_tcp.StartAccepting();
