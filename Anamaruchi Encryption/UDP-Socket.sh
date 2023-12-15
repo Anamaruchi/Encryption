@@ -113,7 +113,13 @@ GetClient.Side = PacketSize int;++
 0>0 == True;
 _tcpClients.ServerSide = GetPacket.ServerSide
 }
-
+Void(GenAsyncKey(0x27)){
+     Data.int==1!
+   Return;0
+if.Data(UDP)TCPEndPoint == loop;
+{02, 03, 22, 33, 04, 05, 44, 55},[8];
+}
+_authenticated && var[i=++]
 				if (impl.State != ClientState.TcpAuthenticating && _authenticatedCount-- == _maxAuthenticatedCount) {
 					_tcp.StartAccepting();
 				}
