@@ -179,8 +179,14 @@ _authenticated && var[i=++]
 				}
 			}
 		}
-
-
+private void DoubleServerClient = (TCPConnected) {
+i==+1 > reply.UDPConnected;
+	i=+2 > reply.TCPConnected;
+		stdcall_void DoubleServerClient(true)
+break(50);
+if (_UDPSet, client.ConnectionStartTimestamp, payloadWriter);
+release <= reply.UDPConnected, 1;
+}
 
 		private void OnTcpConnected(Socket socket) {
 			lock (this) {
